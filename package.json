@@ -137,7 +137,7 @@
   "dependencies": {
     "@erebos/bzz-node": "^0.13.0",
     "@ethereumjs/block": "^3.5.1",
-    "@ethereumjs/common": "^2.5.0",
+    "@ethereumjs/common": "^2.6.0",
     "@ethereumjs/tx": "^3.3.2",
     "@ethereumjs/vm": "^5.5.3",
     "@remixproject/engine": "^0.3.20",
