@@ -17,7 +17,7 @@
     "@ethereumjs/block": "^3.5.1",
     "@ethereumjs/tx": "^3.3.2",
     "@ethereumjs/vm": "^5.5.3",
-    "async": "^2.1.2",
+    "async": "^3.2.2",
     "ethereumjs-util": "^7.0.10",
     "ethers": "^4.0.40",
     "ethjs-util": "^0.1.6",
